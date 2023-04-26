@@ -1287,3 +1287,9 @@ strong {
   }
 }
 
+.member-block-image-wrap, img {
+  width: 400px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
